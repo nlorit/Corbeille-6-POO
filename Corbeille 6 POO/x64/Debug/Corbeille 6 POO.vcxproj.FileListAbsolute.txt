@@ -1,0 +1,4 @@
+C:\Users\Nathan Lorit\source\repos\Corbeille 6 POO\Corbeille 6 POO\x64\Debug\Corbeille 6 POO.vcxproj.AssemblyReference.cache
+C:\Users\Nathan Lorit\source\repos\Corbeille 6 POO\Corbeille 6 POO\x64\Debug\Corbeille 6 POO.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Nathan Lorit\source\repos\Corbeille 6 POO\Corbeille 6 POO\x64\Debug\Corbeille6POO.FRM_principal.resources
+C:\Users\Nathan Lorit\source\repos\Corbeille 6 POO\Corbeille 6 POO\x64\Debug\Corbeille 6 POO.vcxproj.GenerateResource.cache
